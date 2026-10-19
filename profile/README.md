@@ -20,13 +20,11 @@ alle Wohnungen und Kartenzahlung direkt aufs eigene Konto – **ohne Provision a
   <img src="assets/kalender.png" alt="Der Kalender in Keyset: fünf Apartments über zwei Wochen, jede Buchung als Balken mit dem Namen des Gastes, dazu eine eigene Sperre und eine Wartung." width="100%">
 </a>
 
-|  |  |
-|---|---|
-| 🗓️ **Ein Kalender für alle Wohnungen** | Wer wann in welcher Wohnung wohnt, auf einer Seite – Buchungen, eigene Sperren und Wartung. |
-| 🌐 **Deine eigene Buchungsseite** | Gäste buchen direkt bei dir, auf dem Handy wie am Rechner. |
-| 💳 **Das Geld direkt auf deinem Konto** | Gäste zahlen mit Karte über dein eigenes Stripe-Konto. Keyset schlägt auf die Stripe-Gebühr nichts auf. |
-| 🔄 **Abgleich mit Airbnb und Booking.com** | Belegte Nächte gleichen sich regelmäßig mit den Portalen ab. Keyset ist kein Channel Manager: Preise und Verfügbarkeit dort steuert es nicht. |
-| 🇪🇺 **Daten in der EU** | Die Daten liegen auf Servern in der EU. |
+- 🗓️ **Ein Kalender für alle Wohnungen** – Wer wann in welcher Wohnung wohnt, auf einer Seite – Buchungen, eigene Sperren und Wartung.
+- 🌐 **Deine eigene Buchungsseite** – Gäste buchen direkt bei dir, auf dem Handy wie am Rechner.
+- 💳 **Das Geld direkt auf deinem Konto** – Gäste zahlen mit Karte über dein eigenes Stripe-Konto. Keyset schlägt auf die Stripe-Gebühr nichts auf.
+- 🔄 **Abgleich mit Airbnb und Booking.com** – Belegte Nächte gleichen sich regelmäßig mit den Portalen ab. Keyset ist kein Channel Manager: Preise und Verfügbarkeit dort steuert es nicht.
+- 🇪🇺 **Daten in der EU** – Die Daten liegen auf Servern in der EU.
 
 <table>
   <tr>
